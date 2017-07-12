@@ -28,7 +28,7 @@ var config = {
     ],
 
     entry: {
-        musicApp: ['./public/js/music-app.js', 'webpack/hot/only-dev-server'],
+        musicApp: ['./public/js/signup.js', 'webpack/hot/only-dev-server'],
         vendors: ['react', 'react-dom', 'jquery', 'webpack/hot/only-dev-server']
     },
 
